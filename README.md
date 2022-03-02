@@ -1,0 +1,1 @@
+Global Cyborg is a site for American Cyborg's social development.
