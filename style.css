@@ -1,6 +1,39 @@
 body{
-    background-color: darkblue;
+    background-color: black;
     color: bisque;
     text-align: center;
+    margin: 10% auto;
+    font-family: JJannon;
+}
+
+@font-face {
+    font-family: JJannon;
+    src: url(/data/JJannon-Regular.otf);
+}
+
+a{
+    color: rgb(143, 210, 241);
+}
+a:hover{
+    color: violet;
+}
+a:visited{
+    color: rgb(201, 167, 255);
+}
+
+p{
+    text-align: left; 
+    width: 400px;
+    float: center;
     margin: 0 auto;
+}
+
+img{}
+
+hr{
+    border: 1px dashed bisque;
+}
+
+div.default{
+    float: center;
 }
