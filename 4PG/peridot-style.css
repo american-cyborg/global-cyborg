@@ -1,0 +1,29 @@
+div.nav2 {
+    background-color: rgb(219, 228, 188);
+  }
+
+.welcome{
+    background-color: rgb(189, 206, 149);
+}
+
+div.collaborators{
+    background-color: rgb(159, 179, 122);
+    width: 100%;
+}
+
+div.birds{
+    background-color: rgb(152, 173, 104);
+    width: 600px;
+}
+
+div.branding{
+    background-color: rgb(111, 134, 74);
+}
+
+div.projects{
+    background-color: rgb(59, 70, 21);
+}
+
+div.timeline{
+    background-color: rgb(20, 29, 2);
+}
