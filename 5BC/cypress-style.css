@@ -1,29 +1,44 @@
-div.nav2 {
-    background-color: rgb(216, 245, 208);
-  }
-
-.welcome{
-    background-color: rgb(177, 212, 172);
+body{
+    background-color: rgb(81, 96, 80);
+}
+div.default{
+    width: 800px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: 2px solid rgb(38, 255, 42);
+    background-color: white;
 }
 
-div.collaborators{
-    background-color: rgb(151, 185, 147);
+
+img.bird{
+    width: 120px;
+    height: 120px;
+}
+
+div.nav1{
+    font-family: Sohne;
     width: 100%;
+    height: 100px;
+    padding: 10px;
+    background-color: rgb(235, 255, 236);
+    position: fixed;
+    top: 0;
+    right: 0;  
+    border-bottom: 2px solid rgb(38, 255, 42);
 }
 
-div.birds{
-    background-color: rgb(138, 170, 131);
-    width: 600px;
+a.da{
+    text-decoration: none;
 }
 
-div.branding{
-    background-color: rgb(105, 136, 108);
+img.sigil{
+    width: 300px;
+    height: auto;
 }
 
-div.projects{
-    background-color: rgb(51, 68, 51);
-}
-
-div.timeline{
-    background-color: rgb(25, 34, 27);
+img.fancy{
+    width: 400px;
+    height: auto;
 }
