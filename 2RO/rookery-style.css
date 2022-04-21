@@ -1,7 +1,7 @@
 
 
 body{
-    background-color: rgb(165, 153, 181);
+    background-color: rgb(161, 152, 174);
 }
 div.default{
     width: 800px;
@@ -24,7 +24,7 @@ div.nav1{
     width: 100%;
     height: 100px;
     padding: 10px;
-    background-color: rgb(246, 235, 255);
+    background-color: rgb(238, 231, 244);
     position: fixed;
     top: 0;
     right: 0;
