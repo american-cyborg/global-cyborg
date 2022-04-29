@@ -48,3 +48,11 @@ p{
     width: 400px;
     margin: 0 auto;
 }
+.flex-container {
+    display: flex;
+    justify-content: center;
+  }
+
+div.fancy{
+    font-variant-ligatures: discretionary-ligatures; 
+}
