@@ -1,0 +1,41 @@
+
+body{
+    background-color: rgb(161, 152, 174);
+}
+
+div.default{
+    width: 800px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: 2px solid rgb(214, 80, 255);
+    background-color: white;
+}
+
+img.bird{
+    width: 120px;
+    height: 120px;
+}
+
+div.nav-sector{
+    font-family: Sohne;
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: rgb(238, 231, 244);
+    border-bottom: 2px solid rgb(214, 80, 255);
+}
+
+img.logo-sigil{
+    width: 300px;
+    height: auto;
+}
+
+img.logo-fancy{
+    width: 400px;
+    height: auto;
+}

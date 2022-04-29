@@ -1,0 +1,34 @@
+
+
+body{
+    background-color: rgb(196, 177, 179);
+}
+div.default{
+    width: 800px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: 2px solid rgb(252, 118, 185);
+    background-color: white;
+}
+
+img.bird{
+    width: 120px;
+    height: 120px;
+}
+
+div.nav-sector{
+    background-color: rgb(255, 235, 235);
+    border-bottom: 2px solid rgb(235, 80, 157);
+}
+
+img.sigil{
+    width: 300px;
+    height: auto;
+}
+
+img.fancy{
+    width: 400px;
+    height: auto;
+}
